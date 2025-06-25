@@ -63,7 +63,7 @@ No missing values are present. Categorical variables are encoded as needed for m
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/potential-customer-prediction.git
+git clone [https://github.com/yourusername/potential-customer-prediction.git](https://github.com/timroman234/DataScience_ML_RandomForest_Hypertuning.git)
 cd potential-customer-prediction
 ```
 
